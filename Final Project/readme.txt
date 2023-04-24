@@ -34,3 +34,8 @@ Jack = 10
 Queen = 10
 King = 10
 Ace = 1 OR 11 (this depends on your current total. For example: 3 & Ace = 14, Jack & Ace = 21 (This is also blackjack depending on the jack) BUT 8 + 3 + Ace = 12)
+
+
+Code inspiration for structure/syntax came from two sources:
+https://www.askpython.com/python/examples/blackjack-game-using-python
+https://github.com/gsamarakoon/Fun-projects-for-Python/blob/master/A%20game%20of%20BlackJack.ipynb
